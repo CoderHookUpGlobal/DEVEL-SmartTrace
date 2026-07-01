@@ -1,6 +1,3 @@
-Certainly! Here's the description of the `Devel::SmartTrace` module formatted using Markdown:
-
-```markdown
 # Devel::SmartTrace
 
 The `Devel::SmartTrace` module is a custom Perl debugger that provides configurable tracing and variable inspection capabilities. It aims to offer an advanced debugging experience by allowing developers to:
@@ -23,6 +20,6 @@ The `Devel::SmartTrace` module is a custom Perl debugger that provides configura
 The module uses `PadWalker` for lexical variable inspection and falls back to package variables if necessary. It writes tracing and variable inspection output to a log file or stderr based on whether logging can be successfully created.
 
 Overall, `Devel::SmartTrace` provides a powerful toolset for debugging Perl scripts by offering detailed insights into the execution flow and data state at specific points in time.
-```
+
 
 This Markdown format should provide a clear and readable description of the module's features.
